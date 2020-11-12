@@ -1,4 +1,3 @@
 # Calculadora-con-interfaz-Tkinter
 Pablo esteban pachon vega
-1000 620 787 
-Pantallazos 
+1000 620 787
